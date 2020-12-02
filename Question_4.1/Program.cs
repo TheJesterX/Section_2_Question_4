@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Question_4._1
+namespace Question_4
 {
     class Program
     {
