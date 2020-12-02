@@ -1,0 +1,7 @@
+C:\Users\Jester\Desktop\Stuff\Assessment\Section 2\Question_4.1\Question_4.1\bin\Debug\Question_4.1.exe.config
+C:\Users\Jester\Desktop\Stuff\Assessment\Section 2\Question_4.1\Question_4.1\bin\Debug\Question_4.1.exe
+C:\Users\Jester\Desktop\Stuff\Assessment\Section 2\Question_4.1\Question_4.1\bin\Debug\Question_4.1.pdb
+C:\Users\Jester\Desktop\Stuff\Assessment\Section 2\Question_4.1\Question_4.1\obj\Debug\Question_4.1.csprojAssemblyReference.cache
+C:\Users\Jester\Desktop\Stuff\Assessment\Section 2\Question_4.1\Question_4.1\obj\Debug\Question_4.1.csproj.CoreCompileInputs.cache
+C:\Users\Jester\Desktop\Stuff\Assessment\Section 2\Question_4.1\Question_4.1\obj\Debug\Question_4.1.exe
+C:\Users\Jester\Desktop\Stuff\Assessment\Section 2\Question_4.1\Question_4.1\obj\Debug\Question_4.1.pdb
